@@ -1,0 +1,17 @@
+{
+  "name": "cypress-assignment",
+  "version": "1.0.0",
+  "description": "Stitch Cypress Assignment",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jsonwebtoken": "^8.5.8",
+    "cypress": "^9.6.1",
+    "cypress-localstorage-commands": "^1.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "typescript": "^4.6.4"
+  }
+}

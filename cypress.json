@@ -1,0 +1,14 @@
+{
+  "env": {
+    "LOCAL_STORAGE_KEY_SCOPE": "openid profile email offline_access",
+    "LOCAL_STORAGE_KEY_AUDIENCE": "default"
+  },
+  "baseUrl": "https://test.cloud.hatchstudio.co",
+  "integrationFolder": "cypress/integration",
+  "viewportWidth": 1280,
+  "viewportHeight": 1024,
+  "retries": {
+    "runMode": 0,
+    "openMode": 0
+  }
+}
